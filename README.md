@@ -6,7 +6,7 @@
  BETA Release
  
  Specs:
- 
+ - 2040 Frame
  - 250 x 250 x 250 Printable Area
  - Klicky Probe Support
  - 3 Point Z tilt with independant Z motors
@@ -15,8 +15,11 @@
  
  https://docs.google.com/spreadsheets/d/1MMBtSAIVklJtp9cDsU00cnw-aWT4j8f6p9V2ZHv14fQ/edit?usp=sharing
  
- Patreon
+ Support me on Patreon
+ 
  https://www.patreon.com/rolohaun
  
  Find it on YouTube
+ 
+ 
  
