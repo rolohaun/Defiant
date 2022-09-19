@@ -1,9 +1,8 @@
 # Defiant
  CroXY 3D Printer called Defiant
  
- #This printer is a work in progress!! This printer is not enclosable in it's current form
- 
  BETA Release
+ This printer is a work in progress!! This printer is not enclosable in it's current form
  
  Specs:
  - 2040 Frame
