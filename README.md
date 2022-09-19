@@ -11,10 +11,10 @@
  - Klicky Probe Support
  - 3 Point Z tilt with independant Z motors
  
- BOM for Belted Z ( Work in Progress ) 
+ BOM for Belted Z ( Work in Progress )  
  https://docs.google.com/spreadsheets/d/1MMBtSAIVklJtp9cDsU00cnw-aWT4j8f6p9V2ZHv14fQ/edit?usp=sharing
  
- BOM for Lead Screw Z ( Work in Progress ) 
+ BOM for Lead Screw Z ( Work in Progress )  
  https://docs.google.com/spreadsheets/d/1SVTLotEsgObyTigMcOwIdOpesXPSQrzdjuApPx5pESk/edit?usp=sharing
  
  Support me on Patreon
