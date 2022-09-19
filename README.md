@@ -1,7 +1,7 @@
 # Defiant
  CroXY 3D Printer called Defiant
  
- This printer is a work in progress!! This printer is not enclosable in it's current form
+ #This printer is a work in progress!! This printer is not enclosable in it's current form
  
  BETA Release
  
@@ -17,8 +17,7 @@
  BOM for Lead Screw Z ( Work in Progress )  
  https://docs.google.com/spreadsheets/d/1SVTLotEsgObyTigMcOwIdOpesXPSQrzdjuApPx5pESk/edit?usp=sharing
  
- Support me on Patreon
- 
+ Support me on Patreon  
  https://www.patreon.com/rolohaun
  
  Find it on YouTube
