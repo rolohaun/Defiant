@@ -1,7 +1,7 @@
 # Defiant
  CroXY 3D Printer called Defiant
  
- ![](Build_Photos/preview.jpg)
+ ![](Build_Photos/preview.png)
  
  BETA Release
  This printer is a work in progress!! This printer is not enclosable in it's current form
