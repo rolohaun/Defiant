@@ -8,6 +8,10 @@ Included is a modified version of [3DP-MAMSIH's EVA 3.0 E3DV6 - REVO - REVO Micr
 
 TODO Pictures
 
+## Concerns
+
+I suspect that the clamp will need to be beefed back up. I also have concerns that the clicky switch extender spring will be prone to failure. The latter should show up in the klicky repo's issues if it's a problem already, though.
+
 ## Changelog
 
 10/17/2023 initial version
